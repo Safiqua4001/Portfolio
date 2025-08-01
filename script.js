@@ -122,19 +122,19 @@ const certifications = [
   {
     name: "Master Class on ML",
     icon: "Brain",
-    certificateUrl: "https://your-ml-certificate-link.com",
+    certificateUrl: "https://drive.google.com/file/d/1WAzekzSb2l_SO-Ipke4Q_aAKDjqL_CTW/view?usp=sharing",
     viewable: true,
   },
   {
     name: "Google Cloud Certificate",
     icon: "Globe",
-    certificateUrl: "https://your-google-cloud-certificate-link.com",
+    certificateUrl: "https://drive.google.com/file/d/1rpWSN59G5N_FOwwiP_YZiY-GyHR18I55/view?usp=sharing",
     viewable: true,
   },
   {
     name: "AI Master Class",
     icon: "Zap",
-    certificateUrl: "https://your-ai-certificate-link.com",
+    certificateUrl: "https://drive.google.com/file/d/1ETGgmpjRL6r8W1RTfRLxQVv5KMPEIUze/view?usp=sharing",
     viewable: true,
   },
 ]
