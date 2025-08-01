@@ -101,8 +101,7 @@ const projects = [
     title: "Automatic Detection of Retinal Lesions for Diabetic Retinopathy",
     technologies: ["MATLAB", "Python", "Image Processing"],
     description:
-      "Advanced medical imaging project for early detection of diabetic retinopathy using machine learning algorithms.",
-    timeline: "2023",
+      "Advanced medical imaging project for early detection of diabetic retinopathy and diabetese mellitus using machine learning algorithms.",
     gradient: "from-violet-400 via-purple-500 to-indigo-600",
     shadowColor: "shadow-violet-500/50",
     githubLink: "https://github.com/Safiqua4001",
