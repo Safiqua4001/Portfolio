@@ -102,6 +102,7 @@ const projects = [
     technologies: ["MATLAB", "Python", "Image Processing"],
     description:
       "Advanced medical imaging project for early detection of diabetic retinopathy and diabetese mellitus using machine learning algorithms.",
+    timeline: "2023",
     gradient: "from-violet-400 via-purple-500 to-indigo-600",
     shadowColor: "shadow-violet-500/50",
     githubLink: "https://github.com/Safiqua4001",
